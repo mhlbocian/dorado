@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+html, body{
+  font-family: 'Ubuntu', sans-serif;
+  height: 100%;
+}
+
+#title{
+  background-size: cover;
+  background-position: bottom;
+}
+#title h1{
+  color: white;
+}
+#title h1 small{
+  color: lightgrey;
+}
+#main{
+}
